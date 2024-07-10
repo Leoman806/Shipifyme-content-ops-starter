@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: 集運+團購+代購=簡運!
+      text: 集運+團購+代購=Shipifyme!
       color: text-dark
       styles:
         self:
