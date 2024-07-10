@@ -204,7 +204,7 @@ sections:
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: 使用直運好處
+      text: 使用直購好處
       color: text-dark
       styles:
         self:
