@@ -13,7 +13,7 @@ sections:
     text: |
       集運漏單或遺失貨品? 團購沒有質素保證? 代購買到假貨? Shipifyme 幫到你，而且免運費!
     actions:
-      - label: See open positions
+      - label: 熱門直運品牌
         url: /
         icon: arrowRight
         iconPosition: right
