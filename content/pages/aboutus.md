@@ -1,6 +1,6 @@
 ---
 title: About Us
-slug: careers
+slug: aboutus
 sections:
   - title:
       text: 集運+團購+代購=Shipifyme!
