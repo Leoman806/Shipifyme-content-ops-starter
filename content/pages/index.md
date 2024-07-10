@@ -48,111 +48,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: 使用直運好處
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: 一個值得信任的購物及物流平台
-    items:
-      - type: FeaturedItem
-        title: 保證真貨源
-        subtitle: 直接跟商家購買
-        text: |
-          只需給我們海外商家貨品連結，我們會為你訂貨並提供正本收據或確認信。使用我們平台你沒有機會買到假貨。
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 實時追蹤
-        subtitle: 訂單物流狀況一目了然
-        text: |
-          跟集運及代購不同，每張訂單都會提供物流公司的追蹤號碼，客戶可以全天候查詢最新狀況。
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 節省費用
-        subtitle: 免運費、免佣金、免代購費
-        text: |+
-          代購及集運通常需要支付海外雜費，如運費、代購佣金、手續費、極高匯率。我們為你節省這些費用，你只需要支付本地物流費用如順豐智能櫃。
-
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: List of features here
       color: text-primary
@@ -275,6 +170,111 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: FeaturedItemsSection
+    title:
+      text: 使用直運好處
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: 一個值得信任的購物及物流平台
+    items:
+      - type: FeaturedItem
+        title: 保證真貨源
+        subtitle: 直接跟商家購買
+        text: |
+          只需給我們海外商家貨品連結，我們會為你訂貨並提供正本收據或確認信。使用我們平台你沒有機會買到假貨。
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
+      - title: 實時追蹤
+        subtitle: 訂單物流狀況一目了然
+        text: |
+          跟集運及代購不同，每張訂單都會提供物流公司的追蹤號碼，客戶可以全天候查詢最新狀況。
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - title: 節省費用
+        subtitle: 免運費、免佣金、免代購費
+        text: |+
+          代購及集運通常需要支付海外雜費，如運費、代購佣金、手續費、極高匯率。我們為你節省這些費用，你只需要支付本地物流費用如順豐智能櫃。
+
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - subtitle: 大量海外熱門品牌
     images:
       - url: /images/empathy-logo.svg
