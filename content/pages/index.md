@@ -109,7 +109,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 節省費用
-        subtitle: Faster
+        subtitle: 免運費、免佣金、免代購費
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
