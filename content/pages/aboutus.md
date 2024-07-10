@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: 'Shipifyme: 一間社會企業'
       color: text-dark
       styles:
         self:
