@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: 直運品牌
+  - subtitle: 大量海外品牌
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
