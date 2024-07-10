@@ -10,10 +10,17 @@ sections:
     subtitle: |-
       創新思維
       - 100%解決集運、團購及代購缺點
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      集運漏單或遺失貨品?
+      團購沒有質素保證? 代購買到假貨?
+      Shipifyme 幫到你，而且免運費!
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
