@@ -671,7 +671,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: 聯絡我們 CONTACT US
+      text: 聯絡我們
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
