@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 海外網購直運平台
       color: text-primary
       type: Badge
     elementId: ''
