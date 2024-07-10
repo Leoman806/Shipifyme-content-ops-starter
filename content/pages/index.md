@@ -50,7 +50,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 使用直運好處?
+      text: 使用直運好處
       color: text-dark
       styles:
         self:
