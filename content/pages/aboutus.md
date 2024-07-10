@@ -50,7 +50,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Shipifyme 成員
       color: text-dark
       styles:
         self:
