@@ -675,11 +675,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 你的意見是我們最大的推動力
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      我們歡迎任何查詢或建議，請將閣下資料及內容填妥並提交，我們將會進一步跟您聯絡。
     media:
       fields:
         - name: name
