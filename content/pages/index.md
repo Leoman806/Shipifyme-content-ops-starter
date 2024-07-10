@@ -49,7 +49,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: List of features here
+      text: 熱門直購
       color: text-primary
       styles:
         self:
