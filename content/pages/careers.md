@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: '創新科技，結合集運+團購=免費直運! '
+      text: '結合集運+團購=免費直運! '
       color: text-dark
       styles:
         self:
