@@ -37,13 +37,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "links": [],
-            "labelStyle": "primary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
