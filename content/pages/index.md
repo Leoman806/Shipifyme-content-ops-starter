@@ -658,6 +658,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: Buy now
+            altText: Buy now
+            url: /
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: secondary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
