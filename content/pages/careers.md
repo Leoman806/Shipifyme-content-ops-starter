@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: '集運+團購=免費直運! '
       color: text-dark
       styles:
         self:
