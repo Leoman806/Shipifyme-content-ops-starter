@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 由成立到發展
+    subtitle: 初心不是為了賺錢，而是為消息者提供100%可靠網購及物流平台
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
