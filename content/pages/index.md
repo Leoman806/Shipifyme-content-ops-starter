@@ -49,7 +49,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: 熱門直購
+      text: 熱門海外直購
       color: text-primary
       styles:
         self:
