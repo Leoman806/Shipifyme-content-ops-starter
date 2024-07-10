@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: 集運+團購=免費直運!
+      text: 集運+團購+代購=免費直運!
       color: text-dark
       styles:
         self:
