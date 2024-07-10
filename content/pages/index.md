@@ -591,6 +591,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: Buy now
+            altText: Buy now
+            url: /
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: secondary
+            elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
