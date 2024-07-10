@@ -19,6 +19,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        altText: 熱門直運品牌
     colors: bg-neutral-fg-dark
     styles:
       self:
