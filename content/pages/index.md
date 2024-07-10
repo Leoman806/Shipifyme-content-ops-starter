@@ -22,7 +22,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: 熱門直購活動
         altText: ''
         url: /
         showIcon: false
