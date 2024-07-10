@@ -76,7 +76,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: '聯絡我們: xxxx@xxx.com'
     items: []
     actions:
       - type: Button
