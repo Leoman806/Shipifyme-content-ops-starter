@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 集運+團購+代購=Shipifyme!
+      text: 集運+團購+代購=Shipifyme 直購!
       color: text-dark
       type: TitleBlock
     subtitle: |-
