@@ -77,25 +77,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
+    items: []
     actions:
       - type: Button
         label: Apply now
