@@ -714,7 +714,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: 提交
         showIcon: false
         icon: arrowRight
         iconPosition: right
