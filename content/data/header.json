@@ -37,6 +37,16 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "altText": "Reddit",
+            "url": "/",
+            "showIcon": true,
+            "icon": "reddit",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
