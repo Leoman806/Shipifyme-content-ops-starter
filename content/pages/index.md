@@ -657,7 +657,7 @@ sections:
       type: TitleBlock
     subtitle: 你的意見是我們最大的推動力
     text: |
-      我們歡迎任何查詢或建議，請將閣下資料及內容填妥並提交，我們將會進一步跟您聯絡。
+      歡迎任何查詢或建議，請將閣下資料及內容填妥並提交，我們將會進一步跟您聯絡。
     media:
       fields:
         - name: name
