@@ -86,7 +86,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 實時追蹤
-        subtitle: The Job Stuff
+        subtitle: 訂單物流狀況一目了然
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
