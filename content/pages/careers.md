@@ -10,12 +10,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: 創新思維 - 100%解決集運及團購弊病
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: |
+      集運漏單或遺失貨品? 團購沒有質素保證? 代購買到假貨? Shipifyme 幫到你，而且免運費!
     actions:
       - label: See open positions
         url: /
