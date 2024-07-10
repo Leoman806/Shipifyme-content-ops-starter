@@ -7,9 +7,7 @@ sections:
       text: 集運+團購+代購=Shipifyme 直購!
       color: text-dark
       type: TitleBlock
-    subtitle: |-
-      創新思維
-      - 100%解決集運、團購及代購缺點
+    subtitle: 結合集運、團購及代購
     text: |
       **集運**漏單或遺失貨品? 沒有追蹤功能?
 
