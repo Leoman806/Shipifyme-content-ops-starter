@@ -87,10 +87,8 @@ sections:
               borderRadius: x-large
       - title: 實時追蹤
         subtitle: 訂單物流狀況一目了然
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          跟集運及代購不同，每張訂單都會提供物流公司的追蹤號碼，客戶可以全天候查詢最新狀況。
         image:
           url: /images/icon2.svg
           altText: Featured icon two
