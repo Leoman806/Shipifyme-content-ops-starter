@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 集運+團購+代購=Shipifyme 直購!
+      text: Shipifyme 直購!
       color: text-dark
       type: TitleBlock
     subtitle: 結合集運、團購及代購優點，並一次過解決它們缺點
