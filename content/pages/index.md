@@ -59,7 +59,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: ''
+        title: 保證真貨源
         subtitle: 直接跟商家購買
         text: |
           只需給我們海外商家貨品連結，我們會為你訂貨並提供正本收據或確認信，並使用本地物流公司寄給你。
