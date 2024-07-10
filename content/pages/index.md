@@ -724,7 +724,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: 聯絡我日人弓Contact Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
