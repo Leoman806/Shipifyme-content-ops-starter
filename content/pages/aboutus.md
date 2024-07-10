@@ -157,7 +157,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: aboutus
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: aboutus
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
