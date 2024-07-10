@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "altText": "Reddit",
+            "altText": "",
             "url": "/",
             "showIcon": true,
             "icon": "reddit",
