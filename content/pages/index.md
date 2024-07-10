@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 一個值得信任的購物平台
+    subtitle: 一個值得信任的購物及物流平台
     items:
       - type: FeaturedItem
         title: 保證真貨源
