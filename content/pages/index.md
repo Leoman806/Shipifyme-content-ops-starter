@@ -168,7 +168,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: 大量海外熱門品牌
+  - subtitle: 海外熱門品牌
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
