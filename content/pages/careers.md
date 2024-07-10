@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 創新思維 - 100%解決集運及團購弊病
+    subtitle: '創新思維 - 100%解決集運及團購弊病 '
     text: |
       集運漏單或遺失貨品? 團購沒有質素保證? 代購買到假貨? Shipifyme 幫到你，而且免運費!
     actions:
