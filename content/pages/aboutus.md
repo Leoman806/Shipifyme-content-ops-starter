@@ -12,11 +12,12 @@ sections:
           textAlign: center
     subtitle: 初心不是為了賺錢，而是為消息者提供100%可靠網購及物流平台
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      本網站是由三位熱愛網購的人士成立，他們都在網購上有不愉快經驗，其中兩人最高損失有6位數字。There are many variations of
+      passages of Lorem Ipsum available, but the majority have suffered
+      alteration in some form, by injected humour, or randomised words which
+      don't look even slightly believable. If you are going to use a passage of
+      Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden
+      in the middle of text.
     actions:
       - type: Button
         label: See open positions
