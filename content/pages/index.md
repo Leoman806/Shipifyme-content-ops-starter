@@ -110,10 +110,9 @@ sections:
         type: FeaturedItem
       - title: 節省費用
         subtitle: 免運費、免佣金、免代購費
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          代購及集運通常需要支付海外雜費，如運費、代購佣金、手續費、極高匯率。我們為你節省這些費用，你只需要支付本地物流費用如順豐智能櫃。
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
