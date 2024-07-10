@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Shipifyme - 社會企業
+      text: Shipifyme - 良心社會企業
       color: text-dark
       styles:
         self:
