@@ -12,12 +12,8 @@ sections:
           textAlign: center
     subtitle: 初心不是為了賺錢，而是為消息者提供可靠網購及物流平台
     text: >
-      本網站是由三位熱愛網購的人士成立，他們都在網購上有不愉快經驗，其中兩人最高損失有6位數字。There are many variations of
-      passages of Lorem Ipsum available, but the majority have suffered
-      alteration in some form, by injected humour, or randomised words which
-      don't look even slightly believable. If you are going to use a passage of
-      Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden
-      in the middle of text.
+      本網站是由三位熱愛網購的人士成立，他們都在網購上有不愉快經驗，其中兩人最高損失有6位數字。在一次閒談中，三人一拍即合並一起建立一個網上平台協助網友海外購物。之後在天使基金引荐下得到韓國樂天集團前董事金天戊投資本網站，幾個月後，曾在美國ebay任職28年並退休的
+      David Hunter 更加入我們成為非執行董事。 
     actions:
       - type: Button
         label: See open positions
