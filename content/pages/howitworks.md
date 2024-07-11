@@ -32,7 +32,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: '步驟2: 建立訂單'
-        subtitle: Marketing
+        subtitle: ''
         text: |+
           填寫訂單後，本網站人員一般會在 24 - 48 小時內查看及確認訂單內容
 
