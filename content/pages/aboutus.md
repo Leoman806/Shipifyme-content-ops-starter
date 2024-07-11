@@ -77,8 +77,7 @@ sections:
           Email: xxx\@xxx.com
         image:
           type: ImageBlock
-          url: >-
-            /images/kisspng-snail-mail-royalty-free-email-contact-5abf090071dc75.2065202415224691204664[1].jpg
+          url: '/images/8299423[1].png'
           altText: Featured item
           styles:
             self:
