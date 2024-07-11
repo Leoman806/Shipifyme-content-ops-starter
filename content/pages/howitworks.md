@@ -83,6 +83,22 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: '步驟5: 訂單由海外寄出'
+        subtitle: Engineering
+        text: |
+          所有代購項目都會列明在代購訂單的「費用細明」，付款方式包括Payme、轉數快、支付寶、銀行轉帳。
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
