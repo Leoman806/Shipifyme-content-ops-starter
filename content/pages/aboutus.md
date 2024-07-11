@@ -74,7 +74,9 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: |
-          Email: xxx\@xxx.com
+
+
+          Email: <xxx@xxx.com>
         image:
           type: ImageBlock
           url: '/images/8299423[1].png'
