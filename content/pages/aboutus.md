@@ -72,7 +72,7 @@ sections:
       - type: FeaturedItem
         title: 聯絡我們
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: |
           Email: xxx\@xxx.com
         image:
