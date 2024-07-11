@@ -87,7 +87,7 @@ sections:
         title: '步驟5: 訂單由海外寄出'
         subtitle: Engineering
         text: |
-          所有代購項目都會列明在代購訂單的「費用細明」，付款方式包括Payme、轉數快、支付寶、銀行轉帳。
+          當海外商家寄出貨品後，你會收到貨品的追蹤編號（Tracking number）。當貨品到達香港後，你會收到本地物流公司的SMS通知物流狀況。
         actions: []
         colors: bg-neutral-fg-dark
         styles:
