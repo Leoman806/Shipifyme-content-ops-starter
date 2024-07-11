@@ -32,7 +32,7 @@
         {
             "label": "關於我們",
             "altText": "Careers page",
-            "url": "/aboutme",
+            "url": "/aboutus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
