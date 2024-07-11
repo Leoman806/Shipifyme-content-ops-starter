@@ -23,7 +23,7 @@
         {
             "label": "怎樣運作",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/howitworks",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
