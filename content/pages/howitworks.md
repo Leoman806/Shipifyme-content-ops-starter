@@ -13,7 +13,7 @@ sections:
     subtitle: 運作簡單方便，只需一部手機!
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: '步驟 1: 到 立即直購 頁面查看心水商戶'
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
