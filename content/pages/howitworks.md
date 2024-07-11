@@ -33,10 +33,11 @@ sections:
       - type: FeaturedItem
         title: '步驟2: 建立訂單'
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          填寫訂單後，本網站人員一般會在 24 - 48 小時內查看及確認訂單內容
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
