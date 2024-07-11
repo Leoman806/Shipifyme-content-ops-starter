@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "立即直購",
-            "url": "/pricing",
+            "url": "/buynow",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
