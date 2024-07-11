@@ -85,7 +85,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: '步驟5: 訂單由海外寄出'
-        subtitle: Engineering
+        subtitle: ''
         text: |
           當海外商家寄出貨品後，你會收到貨品的追蹤編號（Tracking number）。當貨品到達香港後，你會收到本地物流公司的SMS通知物流狀況。
         actions: []
