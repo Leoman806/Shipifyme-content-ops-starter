@@ -69,7 +69,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: '步驟4: 購買成功'
-        subtitle: Engineering
+        subtitle: ''
         text: |
           您會收到電郵通知
         actions: []
