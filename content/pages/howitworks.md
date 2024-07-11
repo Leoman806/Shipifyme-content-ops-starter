@@ -52,7 +52,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: 付款
+        title: '步驟3: 付款'
         subtitle: Engineering
         text: |
           所有代購項目都會列明在代購訂單的「費用細明」，付款方式包括Payme、轉數快、支付寶、銀行轉帳。
