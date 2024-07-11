@@ -54,10 +54,8 @@ sections:
       - type: FeaturedItem
         title: 付款
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          所有代購項目都會列明在代購訂單的「費用細明」，付款方式包括Payme、轉數快、支付寶、銀行轉帳。
         actions: []
         colors: bg-neutral-fg-dark
         styles:
