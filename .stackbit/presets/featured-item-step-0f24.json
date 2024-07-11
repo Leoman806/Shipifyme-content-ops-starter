@@ -1,0 +1,40 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "step",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "item"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "步驟3: 付款",
+                "tagline": null,
+                "subtitle": "Engineering",
+                "text": "所有代購項目都會列明在代購訂單的「費用細明」，付款方式包括Payme、轉數快、支付寶、銀行轉帳。\n",
+                "image": null,
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "row"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-step-0f24.png"
+        }
+    ]
+}
