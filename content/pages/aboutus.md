@@ -70,7 +70,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: 聯絡我們
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
