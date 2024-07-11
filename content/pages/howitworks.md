@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '步驟 1: 到 「立即直購」 頁面查看心水商戶'
-        subtitle: Sales
+        subtitle: ''
         text: |
           到 「立即直購」 頁面查看心水海外商戶，你亦可以用搜尋功能輸入商戶名稱
         actions: []
