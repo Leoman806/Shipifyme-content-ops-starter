@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 可靠，而且不用付海外到香港運費
+    subtitle: 運作簡單方便，只需一部手機!
     items:
       - type: FeaturedItem
         title: Account Executive
