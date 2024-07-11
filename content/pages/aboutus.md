@@ -73,10 +73,8 @@ sections:
         title: 聯絡我們
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Email: xxx\@xxx.com
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
